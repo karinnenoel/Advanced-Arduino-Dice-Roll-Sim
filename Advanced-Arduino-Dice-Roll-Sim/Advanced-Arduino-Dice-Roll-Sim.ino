@@ -18,6 +18,13 @@ int ledPins[] = {
 
 int numLedPins = 7;
 
+int one[] = { middleMiddle };
+int two[] = { leftTop, rightBottom };
+int three[] = { leftTop, middleMiddle, rightBottom };
+int four[] = { leftTop, leftBottom, rightTop, rightBottom };
+int five[] = { leftTop, leftBottom, middleMiddle, rightTop, rightBottom };
+int six[] = { leftTop, leftMiddle, leftBottom, rightTop, rightMiddle, rightBottom };
+
 
 
 
