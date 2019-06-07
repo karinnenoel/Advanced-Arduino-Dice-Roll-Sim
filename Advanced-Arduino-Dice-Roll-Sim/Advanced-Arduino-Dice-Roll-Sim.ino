@@ -83,7 +83,7 @@ void roll() {
 
 void shuffle() {
   for (int i = 0; i < 25; i++) {
-    roll
+    roll(6);
     delay(40);
   }
 }    
